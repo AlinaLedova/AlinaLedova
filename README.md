@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/-php-777BB4?logo=PHP&logoColor=000000&style=flat" alt="badge sample" height="28px"/>
+
 <!--
 **AlinaLedova/AlinaLedova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
